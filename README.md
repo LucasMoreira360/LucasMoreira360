@@ -20,5 +20,10 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Desenvolvedor de Software, com experiência de atuação apenas em projetos pessoais.
-Iniciando no desenvolvimento em 2021, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+Autodidata há mais de 2 anos, sempre tive uma paixão e curiosidade muito grande por tecnologia, e escolher o mundo de desenvolvimento de software foi muito natural pra mim.
+
+Atuei profissionalmente como desenvolvedor por 5 meses. Neste tempo, participei ativamente do desenvolvimento de grandes projetos, utilizando, principalmente, tecnologias como Java Script, TypeScript, .NET, C#,React.
+
+Hoje, tenho uma sólida experiência em construir e manter aplicações escaláveis e distribuídas. Pilares fundamentais para atingir este objetivo, como testes unitários , construção de uma boa arquitetura usando princípios que submetem a boas práticas de programação, como SOLID, estão entre as minhas expertises profissionais. 
+
+Destaco como minhas principais qualidades profissionais o meu espirito de liderança, facilidade de me relacionar e trabalhar em equipe, a vontade contínua de me desenvolver profissionalmente e a dedicação em sempre entregar um software e código de qualidade.
