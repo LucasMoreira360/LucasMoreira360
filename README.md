@@ -5,7 +5,7 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moreira-747005240/)
 
 
-![LucasMoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMoreira360&show_icons=true&theme=dracula)
+![LucasMoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmoreira360&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que uso no meu dia a dia
